@@ -18,6 +18,6 @@ Em fase de estudo em Front-end e procurando minha primeira experiência de traba
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ## Repositórios 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertoDCJ&repo=desafio3-do-felipao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/robertoDCJ/desafio3-do-felipao)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertoDCJ&repo=desafio3-do-felipao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/robertoDCJ/jogo-do-detona-ralph)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertoDCJ&repo=desafio2-do-felipao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/robertoDCJ/desafio2-do-felipao)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertoDCJ&repo=desafio1-felipao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/robertoDCJ/desafio1-felipao)
