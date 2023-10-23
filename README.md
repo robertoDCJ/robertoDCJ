@@ -19,5 +19,5 @@ Em fase de estudo em Front-end e procurando minha primeira experiência de traba
 
 ## Repositórios 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertoDCJ&repo=jogo-do-detona-ralph&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/robertoDCJ/jogo-do-detona-ralph)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertoDCJ&repo=desafio2-do-felipao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/robertoDCJ/desafio2-do-felipao)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertoDCJ&repo=memory-gameo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/robertoDCJ/memory-game)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertoDCJ&repo=desafio1-felipao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/robertoDCJ/desafio1-felipao)
